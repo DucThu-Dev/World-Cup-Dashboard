@@ -8,7 +8,7 @@
 
 > This is my Worldcup match schedule cloned when play around with Tailwind and deploy with Netify.
 
-### ✨ [Demo](https://worldcup-dashboard.netlify.app/)
+### ✨ [Demo](https://worldcup-dashboard.netlify.app/src)
 
 ## Build
 
